@@ -6,75 +6,46 @@ using UnityEngine.SceneManagement;
 public class Ropeup : MonoBehaviour
 {
     public GameObject VictoryColliedr;
-    public　float fallSpeed;
-    bool isSpace; // フラグを用意
+    float fallSpeed;
+    bool fallswich = false;
+    //bool isSpace; // フラグを用意
 
     AudioSource audioSource;
     public AudioClip SE;
 
     public void Start()
     {
-        fallSpeed = 100.0f + 50.0f * Random.value;
+        fallSpeed = 10.0f + 40.0f * Random.value;
+        Debug.Log(fallSpeed);
 
         //用意した入れ物にAudioSourceを入れる
         audioSource = GetComponent<AudioSource>();
+
+        //生成位置（y軸）をランダムに
+        transform.position += new Vector3(0, Random.Range(80.0f, 200.0f), 0);
+
     }
 
-    /*void Update()
+    public void Update()
     {
-        if (Input.touchCount > 0)
+        if (fallswich == true)
         {
-            // タッチ情報の取得
-            Touch touch = Input.GetTouch(0);
-
-
-            // フラグがtrueならここで処理を終える
-            if (isSpace)
-            {
-                return;
-            }
-
-
-            if (touch.phase == TouchPhase.Began)
-            {
-                audioSource.PlayOneShot(SE);
-
-            }
-
-            if (touch.phase == TouchPhase.Moved)
-            {
-                transform.position += new Vector3(0, fallSpeed, 0) * Time.deltaTime;
-
-
-            }
-
-
-            if (touch.phase == TouchPhase.Ended)
-            {
-                //Debug.Log("離す");
-                audioSource.Stop();
-
-                VictoryColliedr.SetActive(true);
-                Invoke("SceneGameOver", 1.2f);
-
-                // スペースキーを押したらtrueにする
-                isSpace = true;
-            }
-
+            transform.position += new Vector3(0, fallSpeed, 0) * Time.deltaTime;
         }
-
     }
-    */
+
+
 
     //ボタンを押している状態
     public void PushDown()
     {
-        transform.position += new Vector3(0, fallSpeed, 0) * Time.deltaTime;
+        fallswich = true;
     }
 
     //ボタンを離している状態
     public void PushUp()
     {
+        fallswich = false;
         VictoryColliedr.SetActive(true);
         Invoke("SceneGameOver", 1.2f);
     }

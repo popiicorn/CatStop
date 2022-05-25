@@ -22,6 +22,7 @@ public class RopeGenerator : MonoBehaviour
              transform.position.z
             );
 
+
         //（引数）をオブジェクト化する
         Instantiate(rope,//生成するもの
             spawnPosition,//生成する場所(今回はアタッチしているオブジェクトからになる)
