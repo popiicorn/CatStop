@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 public class Ropeup : MonoBehaviour
 {
     public GameObject VictoryColliedr;
+    public GameObject inGame;
+    public GameObject gameOver;
     float fallSpeed;
     bool fallswich = false;
     //bool isSpace; // フラグを用意
@@ -15,8 +17,8 @@ public class Ropeup : MonoBehaviour
 
     public void Start()
     {
-        fallSpeed = 10.0f + 40.0f * Random.value;
-        Debug.Log(fallSpeed);
+        fallSpeed = 5.0f + 40.0f * Random.value;
+        //Debug.Log(fallSpeed);
 
         //用意した入れ物にAudioSourceを入れる
         audioSource = GetComponent<AudioSource>();
@@ -53,7 +55,8 @@ public class Ropeup : MonoBehaviour
 
     private void SceneGameOver()
     {
-        SceneManager.LoadScene("GameOver");
+        inGame.SetActive(false);
+        gameOver.SetActive(true);
     }
 
 }

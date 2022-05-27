@@ -12,8 +12,8 @@ public class CharacterAnime : MonoBehaviour
 
     void Start()
     {
-        Douyo.SetActive(false);
-        DokiDoki.SetActive(true);
+        //Douyo.SetActive(false);
+        //DokiDoki.SetActive(true);
     }
 
 

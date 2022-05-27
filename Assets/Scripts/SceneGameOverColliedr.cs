@@ -5,6 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class SceneGameOverColliedr : MonoBehaviour
 {
+    public GameObject inGame;
+    public GameObject gameOver;
+
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -17,7 +21,9 @@ public class SceneGameOverColliedr : MonoBehaviour
 
     private void SceneGameOver()
     {
-        SceneManager.LoadScene("GameOver");
+        inGame.SetActive(false);
+        gameOver.SetActive(true);
+
     }
 
 

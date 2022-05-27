@@ -4,13 +4,25 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 8638425269186775870
-    second: Rope
+    second: Rope_InGame
   - first:
       213: -5664993424584365456
     second: Cat
   - first:
       213: 3608981324507685664
     second: Sweet
+  - first:
+      213: -4756199528376665052
+    second: Rope_Small
+  - first:
+      213: -1522771330953068431
+    second: Cat_Small
+  - first:
+      213: -1782646349822527385
+    second: Button_A
+  - first:
+      213: -3971814275626464465
+    second: Rope_Home
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -136,7 +148,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rope
+      name: Rope_InGame
       rect:
         serializedVersion: 2
         x: 6
@@ -186,7 +198,7 @@ TextureImporter:
         width: 41
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,6 +206,90 @@ TextureImporter:
       bones: []
       spriteID: 023ac48b46da51230800000000000000
       internalID: 3608981324507685664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Small
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 10
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 83, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7a367ab59efdb0800000000000000
+      internalID: -4756199528376665052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_Small
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c460ea870edae0800000000000000
+      internalID: -1522771330953068431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_A
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 904
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 16, z: 38, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7687ea6f694c247e0800000000000000
+      internalID: -1782646349822527385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope_Home
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 27
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 101, z: 0, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b857bb5f741e8c0800000000000000
+      internalID: -3971814275626464465
       vertices: []
       indices: 
       edges: []
