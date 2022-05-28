@@ -14,6 +14,7 @@ public class SceneGameOverColliedr : MonoBehaviour
     {
 
         Invoke("SceneGameOver", 1.0f);
+        Debug.Log("ゲームオーバーのコリジョン当たった");
 
     }
 

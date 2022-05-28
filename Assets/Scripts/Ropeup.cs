@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class Ropeup : MonoBehaviour
 {
-    public GameObject VictoryColliedr;
+    public GameObject victoryColliedr;
+    public GameObject gameOverColliedr;
     public GameObject inGame;
     public GameObject gameOver;
     float fallSpeed;
@@ -48,8 +49,9 @@ public class Ropeup : MonoBehaviour
     public void PushUp()
     {
         fallswich = false;
-        VictoryColliedr.SetActive(true);
-        Invoke("SceneGameOver", 1.2f);
+        victoryColliedr.SetActive(true);
+        gameOverColliedr.SetActive(true);
+        //Invoke("SceneGameOver", 1.2f);
     }
 
 
