@@ -26,6 +26,9 @@ TextureImporter:
   - first:
       213: 696397520262024392
     second: Button_White
+  - first:
+      213: -3796375953745941026
+    second: Button_B
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -314,6 +317,27 @@ TextureImporter:
       bones: []
       spriteID: 8cc4ea1ead91aa900800000000000000
       internalID: 696397520262024392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_B
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 4
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd63232f20905bc0800000000000000
+      internalID: -3796375953745941026
       vertices: []
       indices: 
       edges: []
