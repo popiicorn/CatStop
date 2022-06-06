@@ -33,7 +33,6 @@ public class EquipmentPoint : MonoBehaviour
         if (point == 2)
         {
             equipmentImage[2].SetActive(true);
-            Debug.Log("‘•”õ");
         }
 
         if (point == 3)

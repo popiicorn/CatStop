@@ -25,7 +25,7 @@ public class Ropeup : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
 
         //生成位置（y軸）をランダムに
-        transform.position += new Vector3(0, Random.Range(80.0f, 200.0f), 0);
+        transform.position += new Vector3(0, Random.Range(80.0f, 150.0f), 0);
 
     }
 
