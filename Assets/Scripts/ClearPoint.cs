@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ClearPoint : MonoBehaviour
 {
-    int clearpoint = 0;
+    public int clearpoint = 0;
     public Text textClearPoint;
     public GameObject clearScenes;
     bool pointswich = false;
