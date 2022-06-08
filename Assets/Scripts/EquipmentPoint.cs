@@ -5,9 +5,14 @@ using UnityEngine.UI;
 
 public class EquipmentPoint : MonoBehaviour
 {
-    int point = 0;
+    //他のスクリプト読み込み
+    public EquipmentInGame equipmentingame;
+    public ButtonSelect buttonselect;
+
+    public int point = 0;
     public Text textEquipment;
     public GameObject[] equipmentImage;
+
 
 
 
@@ -91,6 +96,15 @@ public class EquipmentPoint : MonoBehaviour
         }
     }
 
+    //関数集合------------------------------------------
+    void AllSelection()
+    {
+        PointLabel();
+        AllFalse();
+        equipmentingame.AllFalseIngame();
+        buttonselect.AllFalseSelectButton();
+    }
+
 
 
     //オンクリック--------------------------------------------
@@ -98,64 +112,55 @@ public class EquipmentPoint : MonoBehaviour
     public void OnClickPoint_1()
     {
         point = 1;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_2()
     {
         point = 2;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_3()
     {
         point = 3;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_4()
     {
         point = 4;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_5()
     {
         point = 5;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_6()
     {
         point = 6;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_7()
     {
         point = 7;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_8()
     {
         point = 8;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
     public void OnClickPoint_9()
     {
         point = 9;
-        PointLabel();
-        AllFalse();
+        AllSelection();
     }
 
 
