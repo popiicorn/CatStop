@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//ボタン押したらホーム画面の衣装替えすることができる　大元のポイントスクリプト
+
 public class EquipmentPoint : MonoBehaviour
 {
     //他のスクリプト読み込み

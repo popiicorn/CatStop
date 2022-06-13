@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//ボタン押したらインゲームの衣装替えすることができる　EquipmentPointスクリプトから読み込んでる
+
 public class EquipmentInGame : MonoBehaviour
 {
     //他のスクリプト読み込み

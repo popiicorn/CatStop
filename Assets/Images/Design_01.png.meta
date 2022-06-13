@@ -29,6 +29,9 @@ TextureImporter:
   - first:
       213: -3796375953745941026
     second: Button_B
+  - first:
+      213: -1275147395829435785
+    second: Star
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -330,7 +333,7 @@ TextureImporter:
         width: 82
         height: 108
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -338,6 +341,27 @@ TextureImporter:
       bones: []
       spriteID: edd63232f20905bc0800000000000000
       internalID: -3796375953745941026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77272531334cd4ee0800000000000000
+      internalID: -1275147395829435785
       vertices: []
       indices: 
       edges: []

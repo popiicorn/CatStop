@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//ボタン押したら選択色がつく　EquipmentPointスクリプトから読み込んでる
+
 public class ButtonSelect : MonoBehaviour
 {
     //他のスクリプト読み込み
