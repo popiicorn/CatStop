@@ -18,7 +18,7 @@ public class Ropeup : MonoBehaviour
 
     public void Start()
     {
-        fallSpeed = 5.0f + 20.0f * Random.value;
+        fallSpeed = 2.0f + 15.0f * Random.value;
         //Debug.Log(fallSpeed);
 
         //用意した入れ物にAudioSourceを入れる
