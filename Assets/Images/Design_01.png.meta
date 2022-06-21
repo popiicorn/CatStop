@@ -32,6 +32,36 @@ TextureImporter:
   - first:
       213: -1275147395829435785
     second: Star
+  - first:
+      213: -469743970058320395
+    second: Costume_05
+  - first:
+      213: -7777695755129283309
+    second: Costume_05
+  - first:
+      213: 3917142763885862158
+    second: Costume_05
+  - first:
+      213: -5247079095711819368
+    second: Costume_05
+  - first:
+      213: -7425685387367227066
+    second: Costume_06
+  - first:
+      213: -8664455144314600362
+    second: Costume_07
+  - first:
+      213: -3240348354902605041
+    second: Costume_08
+  - first:
+      213: -4219970018875487386
+    second: Costume_09
+  - first:
+      213: -9177810491422643090
+    second: Costume_10
+  - first:
+      213: 4682230854174264865
+    second: Costume_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -354,7 +384,7 @@ TextureImporter:
         width: 55
         height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -362,6 +392,216 @@ TextureImporter:
       bones: []
       spriteID: 77272531334cd4ee0800000000000000
       internalID: -1275147395829435785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 854
+        width: 143
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ca4919522b79f0800000000000000
+      internalID: -469743970058320395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_03
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 915
+        width: 166
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d94703be2101490800000000000000
+      internalID: -7777695755129283309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_04
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 793
+        width: 154
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d98eff69c7c5630800000000000000
+      internalID: 3917142763885862158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_05
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 970
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89918b7dc51ae27b0800000000000000
+      internalID: -5247079095711819368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_06
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 474
+        width: 247
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641ea20bb7aa2f890800000000000000
+      internalID: -7425685387367227066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_07
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 377
+        width: 206
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65482d6d3fba1c780800000000000000
+      internalID: -8664455144314600362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_08
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 645
+        width: 167
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03428dd658f703d0800000000000000
+      internalID: -3240348354902605041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_09
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 795
+        width: 74
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc02e40a7af65c0800000000000000
+      internalID: -4219970018875487386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 765
+        width: 127
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c66e2fbfdd1a080800000000000000
+      internalID: -9177810491422643090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 835
+        width: 172
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4e638720aaf040800000000000000
+      internalID: 4682230854174264865
       vertices: []
       indices: 
       edges: []
