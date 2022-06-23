@@ -83,6 +83,24 @@ TextureImporter:
   - first:
       213: -1258175377712270110
     second: Costume_12
+  - first:
+      213: -7812209976900527664
+    second: Costume_19
+  - first:
+      213: -8426781855949881688
+    second: Costume_20
+  - first:
+      213: -7706206736556207852
+    second: Costume_21
+  - first:
+      213: -1580012145887391870
+    second: Costume_22
+  - first:
+      213: 7963276272960343861
+    second: Costume_23
+  - first:
+      213: 9183048585578429184
+    second: Costume_24
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -636,7 +654,7 @@ TextureImporter:
         width: 85
         height: 284
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -657,7 +675,7 @@ TextureImporter:
         width: 80
         height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -678,7 +696,7 @@ TextureImporter:
         width: 128
         height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -699,7 +717,7 @@ TextureImporter:
         width: 84
         height: 146
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -720,7 +738,7 @@ TextureImporter:
         width: 67
         height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -741,7 +759,7 @@ TextureImporter:
         width: 82
         height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -762,7 +780,7 @@ TextureImporter:
         width: 205
         height: 275
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -770,6 +788,132 @@ TextureImporter:
       bones: []
       spriteID: 2e4315af8201a8ee0800000000000000
       internalID: -1258175377712270110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 156
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d418ba64759390800000000000000
+      internalID: -7812209976900527664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 736
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae766c8c8e0e0b80800000000000000
+      internalID: -8426781855949881688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 152
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41158d56dcd0e0590800000000000000
+      internalID: -7706206736556207852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 109
+        width: 142
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4497135ba21ae0800000000000000
+      internalID: -1580012145887391870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_23
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 754
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f091a349d338e60800000000000000
+      internalID: 7963276272960343861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Costume_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 201
+        width: 147
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b3e82e80eb07f70800000000000000
+      internalID: 9183048585578429184
       vertices: []
       indices: 
       edges: []
