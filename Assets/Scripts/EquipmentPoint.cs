@@ -13,7 +13,9 @@ public class EquipmentPoint : MonoBehaviour
 
     public int point = 0;
     public Text textEquipment;
+    public GameObject smork;
     public GameObject[] equipmentImage;
+
 
 
 
@@ -278,6 +280,19 @@ public class EquipmentPoint : MonoBehaviour
         }
     }
 
+    //煙エフェクト出現して消す------------------------------------------
+    void Smork()
+    {
+       smork.SetActive(true);
+        Invoke("SmorkFalse", 0.4f);
+    }
+
+    //煙エフェクト消す------------------------------------------
+    void SmorkFalse()
+    {
+        smork.SetActive(false);
+    }
+
     //関数集合------------------------------------------
     void AllSelection()
     {
@@ -285,6 +300,7 @@ public class EquipmentPoint : MonoBehaviour
         AllFalse();
         equipmentingame.AllFalseIngame();
         buttonselect.AllFalseSelectButton();
+        Smork();
     }
 
 
