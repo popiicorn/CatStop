@@ -719,6 +719,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &44019182
@@ -1100,6 +1105,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &54368841 stripped
@@ -1472,6 +1482,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &94706200
@@ -1832,6 +1847,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &101129001
@@ -2141,6 +2161,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &119914673 stripped
@@ -2276,6 +2301,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -2430,6 +2460,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -3127,6 +3162,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -6705,6 +6745,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &482524355
@@ -6829,6 +6874,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &487757464
@@ -6952,6 +7002,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -13772,6 +13827,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &683495339
@@ -13895,6 +13955,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -14323,6 +14388,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -14873,6 +14943,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &771927263
@@ -14997,6 +15072,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &780142351
@@ -15120,6 +15200,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -15502,6 +15587,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &812055424
@@ -15759,6 +15849,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!4 &820972680 stripped
@@ -15964,6 +16059,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &863033342 stripped
@@ -16159,6 +16259,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -16422,6 +16527,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &930312039 stripped
@@ -16588,6 +16698,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -17707,6 +17822,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &1066876594
@@ -18033,6 +18153,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -19147,6 +19272,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -20809,6 +20939,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &1324322935 stripped
@@ -21234,6 +21369,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -23068,6 +23208,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &1593171220
@@ -23475,6 +23620,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &1617024316
@@ -23696,6 +23846,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &1678707734
@@ -23819,6 +23974,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -26258,6 +26418,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -32052,6 +32217,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &1793962413
@@ -33149,6 +33319,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &1846035858
@@ -33339,6 +33514,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -34684,6 +34864,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &1976719174
@@ -34807,6 +34992,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -35354,6 +35544,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1 &2041726953 stripped
@@ -35710,6 +35905,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -36098,6 +36298,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Equipment_None
       objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
 --- !u!1001 &2117137672
@@ -36221,6 +36426,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
@@ -36382,6 +36592,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Button_Equipment_None
+      objectReference: {fileID: 0}
+    - target: {fileID: 4936856339669918311, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d10fa5e7df5bc4d45bd95aad60fd7ce7, type: 3}
