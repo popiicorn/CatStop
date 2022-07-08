@@ -68,7 +68,7 @@ public class AdMobReward : MonoBehaviour
 #if UNITY_ANDROID
         adUnitId = "ca-app-pub-6736870106967218/7998508352";//ここにAndroidのリワード広告IDを入力
 #elif UNITY_IPHONE
-        adUnitId = "ca-app-pub-3940256099942544/1712485313";//ここにiOSのリワード広告IDを入力
+        adUnitId = "ca-app-pub-6736870106967218/6905667933";//ここにiOSのリワード広告IDを入力
 #else
         adUnitId = "unexpected_platform";
 #endif

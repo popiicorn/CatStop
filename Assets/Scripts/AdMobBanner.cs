@@ -46,7 +46,7 @@ public class AdMobBanner : MonoBehaviour
         string adUnitId = "ca-app-pub-6736870106967218/1624671695";//ここにAndroidのバナーIDを入力
 
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-3940256099942544/2934735716";//ここにiOSのバナーIDを入力
+        string adUnitId = "ca-app-pub-6736870106967218/7831736791";//ここにiOSのバナーIDを入力
 
 #else
         string adUnitId = "unexpected_platform";
