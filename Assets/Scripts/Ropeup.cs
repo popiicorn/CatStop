@@ -23,6 +23,7 @@ public class Ropeup : MonoBehaviour
 
         //用意した入れ物にAudioSourceを入れる
         audioSource = GetComponent<AudioSource>();
+        audioSource.clip = SE;
 
         //生成位置（y軸）をランダムに
         transform.position += new Vector3(0, Random.Range(80.0f, 150.0f), 0);
@@ -43,6 +44,8 @@ public class Ropeup : MonoBehaviour
     public void PushDown()
     {
         fallswich = true;
+        audioSource.Play();
+        //Debug.Log("サウンド");
     }
 
     //ボタンを離している状態
@@ -52,6 +55,7 @@ public class Ropeup : MonoBehaviour
         victoryColliedr.SetActive(true);
         gameOverColliedr.SetActive(true);
         //Invoke("SceneGameOver", 1.2f);
+        audioSource.Stop();
     }
 
 

@@ -148,7 +148,7 @@ MonoBehaviour:
   gameOverColliedr: {fileID: 1845641618}
   inGame: {fileID: 0}
   gameOver: {fileID: 0}
-  SE: {fileID: 8300000, guid: 73688404f28b60940b4bb32096c8071d, type: 3}
+  SE: {fileID: 8300000, guid: 0d6e4044d94ade042ae2c77e7c167d27, type: 3}
 --- !u!82 &3060427220434626260
 AudioSource:
   m_ObjectHideFlags: 0
