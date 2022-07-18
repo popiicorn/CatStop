@@ -8,6 +8,18 @@ TextureImporter:
   - first:
       213: -2503885665562659111
     second: Icon_06
+  - first:
+      213: 879802285094317592
+    second: GuideIcon2
+  - first:
+      213: 7994845217445896042
+    second: GuideIcon1
+  - first:
+      213: 5721295510131246921
+    second: GuidePicture2
+  - first:
+      213: -5234908923209293574
+    second: GuidePicture1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -141,7 +153,7 @@ TextureImporter:
         width: 134
         height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -162,7 +174,7 @@ TextureImporter:
         width: 208
         height: 206
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -170,6 +182,90 @@ TextureImporter:
       bones: []
       spriteID: 9d6f1f9d049604dd0800000000000000
       internalID: -2503885665562659111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuideIcon2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 853
+        width: 112
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eaf93548fa53c00800000000000000
+      internalID: 879802285094317592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuideIcon1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 834
+        width: 126
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fd714ed5563fe60800000000000000
+      internalID: 7994845217445896042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuidePicture2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 433
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 347, y: 0, z: 58, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947096824ff166f40800000000000000
+      internalID: 5721295510131246921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuidePicture1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 453
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 381, y: 0, z: 60, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af06690f11ed957b0800000000000000
+      internalID: -5234908923209293574
       vertices: []
       indices: 
       edges: []
