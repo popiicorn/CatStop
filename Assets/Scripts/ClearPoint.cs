@@ -32,7 +32,7 @@ public class ClearPoint : MonoBehaviour
            if (clearScenes.activeSelf)
            {
                 //ここで獲得ポイント決める：初期値5
-            clearpoint += 5;
+            clearpoint += 100;
             AddPoint();
             pointswich = true;
            }
